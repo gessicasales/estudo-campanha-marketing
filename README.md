@@ -38,7 +38,7 @@ O **Fato** é uma **coluna de interesse** que representa o ponto focal da análi
 ### Passo 4: Identificação das Dimensões
 Os campos foram estruturados em **dimensões compartilhadas**, permitindo uma análise mais detalhada do **fato principal**. Com base nessa estrutura, as seguintes dimensões foram estabelecidas::
 
-1. Cliente
+**1. Cliente**
    - Salário
    - Idade
    - Faixa_Etária
@@ -49,7 +49,7 @@ Os campos foram estruturados em **dimensões compartilhadas**, permitindo uma an
    - Filhos_Adolescentes
    - Recência (Dias_Sem_Comprar)  
      
-2. Produto
+**2. Produto**
    - Gastos_Carne
    - Gastos_Vinho
    - Gastos_Doces
@@ -57,7 +57,7 @@ Os campos foram estruturados em **dimensões compartilhadas**, permitindo uma an
    - Gastos_Peixes
    - Gastos_Luxo
   
-3. Comportamento de Compra
+**3. Comportamento de Compra**
    - Gasto_Cliente
    - Compras_Online
    - Compras_Catálogo
@@ -65,5 +65,5 @@ Os campos foram estruturados em **dimensões compartilhadas**, permitindo uma an
    - Compras_Com_Desconto
    - Visitas_Web_Mensais
  
-4. Comportamento de MKT
+**4. Comportamento de MKT**
    - Reclamações
