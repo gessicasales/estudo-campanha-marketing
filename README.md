@@ -67,3 +67,61 @@ Os campos foram estruturados em **dimensões compartilhadas**, permitindo uma an
  
 **4. Comportamento de MKT**
    - Reclamações
+
+     
+## Passo 5: Hipóteses Analíticas
+As hipóteses analíticas são formuladas a partir da relação entre o fato e suas dimensões, utilizando valores de comparação como maior, menor ou igual para orientar a análise.
+
+Fato (Medida) + Dimensão (Detalhes) + Comparação
+
+**Fato + Dimensão: Cliente - Atributos: Idade**
+
+1. O faturamento dos clientes abaixo de 30 anos é maior do que nas outra faixas etárias.
+2. 0 faturamento dos clientes entre 20 e 30 anos é maior do que nas outras faixas etárias.
+3. O faturamento dos clientes acima dos 30 anos é maior do que nas outras faixas.
+
+**Fato + Dimensão: Cliente - Atributos: Estado Civil**
+
+4. Clientes solteiros gastam mais do que os outros segmentos de clientes.
+5. Clientes solteiros gastam menost do que os outros segmentos de clientes.
+6. Clientes casados gastam mais do que os outros segmentos de clientes.
+
+**Fato + Dimensão: Cliente - Atributos: Estado Civil + Idade**
+
+7. Clientes solteiros acima dos 30 anos gastam mais do clientes casados acima dos 30 anos.
+
+**Fato + Dimensão: Cliente - Atributos: Formação Profissional**
+
+8. Clientes com formações avancadas (Doutora) gastam mais do que clientes com Ensino Fundamental
+9. Clientes com maiores salários tem nível escolaridade maior.
+
+**Fato + Dimensão: Produto - Atributos: Idade**
+
+10. Clientes com menos de 40 anos gastam mais com vinhos do que clientes acima de 60 anos
+
+**Fato + Dimensão: Produto - Atributos: Estado Civil**
+
+11. Clientes casados e com filhos consomem mais doces do que outros clientes
+12. Clientes solteiros consomem mais vinhos do que os outro clientes
+
+## Passo 6: Critérios de Priorização
+
+Critério 1: Dados disponíveis
+
+Critério 2: Insights Acionáveis
+
+## Passo 7: Priorização das Hipóteses Analíticas
+
+**Hipótese1**: O faturamento gerado por clientes com menos de 30 anos é superior ao das demais faixas etárias.
+
+**Hipótese2:** Os clientes sem filhos gastam menos que os clientes casados
+
+**Hipótese3:** Os clientes casados possuem uma renda maior que os clientes solteiros
+
+**Hipótese4:** Clientes com maior nível de escolaridade são os que mais consomem produtos em comparação aos demais clientes.
+
+**Hipótese5:** Clientes com mais de 50 anos realizam mais compras em lojas físicas do que clientes com menos de 30 anos.
+
+**Hipótese6:** Clientes casados apresentam maior consumo de vinho em comparação aos clientes solteiros
+
+**Hipótese8:** Clientes com menos de 40 anos gastam mais com vinhos do que clientes acima de 60 anos
