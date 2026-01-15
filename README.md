@@ -18,7 +18,7 @@ Nesse contexto, este case tem como objetivo realizar uma **análise exploratóri
 A base de dados utilizada neste projeto foi obtida na plataforma **Kaggle** e é utilizada exclusivamente para fins educacionais, com o objetivo de demonstrar habilidades em Análise de Dados, visualização e geração de insights.
 
 ## 📌 Premissas da Análise
-1. A campanha visa analisar o que ocorreu entre os dias 15 Janeiro de 2025 até 30 de Janeiro de 2025;
+1. A base disponível continha dados cadastrais e de engajamento, **sem histórico de compras**. Para possibilitar a análise, foi **assumida** uma janela de campanha de **15/01/2025** a **30/01/2025** como cenário simulado;
 2. A variável Custo_Contato apresenta valor constante para todos os registros, o que inviabiliza análises comparativas de custo entre campanhas. Dessa forma, ela foi utilizada apenas como parâmetro fixo para o cálculo de métricas agregadas, como custo total e ROI;
 3. A variável Receita_Campanha encontra-se no mesmo cenário do item 2;
    
@@ -36,7 +36,7 @@ Em **análise de dados**, uma **pergunta fechada** é aquela que **possui respos
 O **Fato** é uma **coluna de interesse** que representa o ponto focal da análise. Nesse caso, a coluna **"Gasto_Cliente"** representa o faturamento de cada cliente dentro de uma campanha e será o **objetivo** da nossa análise, dado que o problema do negócio envolve o **aumento do faturamento na próxima campanha de Marketing**.
 
 ### Passo 4: Identificação das Dimensões
-Os campos foram estruturados em **dimensões compartilhadas**, permitindo uma análise mais detalhada do **fato principal**. Com base nessa estrutura, as seguintes dimensões foram estabelecidas::
+Os campos foram estruturados em **dimensões compartilhadas**, permitindo uma análise mais detalhada do **fato principal**. Com base nessa estrutura, as seguintes dimensões foram estabelecidas:
 
 **1. Cliente**
    - Salário
