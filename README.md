@@ -30,7 +30,7 @@ O método **Fato-Dimensão** foi utilizado para desenvolver a análise de dados 
 Na **análise de dados**, uma **pergunta aberta** é aquela que **não pode ser respondida apenas com “sim”, “não” ou um valor único**. Ela exige **exploração, interpretação e análise**, permitindo descobrir padrões, causas e oportunidades. Para esse estudo foi definida a seguinte pergunta aberta: **"Como aumentar o resultado da próxima campanha de Marketing?"**
 
 ### Passo 2: Transformar perguntas abertas em perguntas fechadas
-Em **análise de dados**, uma **pergunta fechada** é aquela que **possui respostas limitadas, diretas e objetivas**, geralmente podendo ser respondida com **“sim”/“não”, valores numéricos ou categorias específicas**. Para esse estudo foi definida a seguinte pergunta fechada: **"Quais são as características dos clientes que mais gastaram na campanha de Marketing?**
+Em **análise de dados**, uma **pergunta fechada** é aquela que **possui respostas limitadas, diretas e objetivas**, geralmente podendo ser respondida com **“sim”/“não”**, **valores numéricos** ou **categorias específicas**. Para esse estudo foi definida a seguinte pergunta fechada: **"Quais são as características dos clientes que mais gastaram na campanha de Marketing?**
 
 ### Passo 3: Definição da coluna Fato
 O **Fato** é uma **coluna de interesse** que representa o ponto focal da análise. Nesse caso, a coluna **"Gasto_Cliente"** representa o faturamento de cada cliente dentro de uma campanha e será o **objetivo** da nossa análise, dado que o problema do negócio envolve o **aumento do faturamento na próxima campanha de Marketing**.
