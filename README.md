@@ -116,12 +116,26 @@ Critério 2: Insights Acionáveis
 
 **Hipótese2:** Os clientes sem filhos gastam menos que os clientes casados
 
-**Hipótese3:** Os clientes casados possuem uma renda maior que os clientes solteiros
+**Hipótese3:** Clientes com maior nível de escolaridade são os que mais consomem produtos em comparação aos demais clientes.
 
-**Hipótese4:** Clientes com maior nível de escolaridade são os que mais consomem produtos em comparação aos demais clientes.
+**Hipótese4:** Clientes com mais de 50 anos realizam mais compras em lojas físicas do que clientes com menos de 30 anos.
 
-**Hipótese5:** Clientes com mais de 50 anos realizam mais compras em lojas físicas do que clientes com menos de 30 anos.
+**Hipótese5:** Clientes casados apresentam maior consumo de vinho em comparação aos clientes solteiros
 
-**Hipótese6:** Clientes casados apresentam maior consumo de vinho em comparação aos clientes solteiros
+**Hipótese6:** Clientes com menos de 40 anos gastam mais com vinhos do que clientes acima de 60 anos
 
-**Hipótese8:** Clientes com menos de 40 anos gastam mais com vinhos do que clientes acima de 60 anos
+# 💡 Insights da Análise
+
+# ✅ Conclusões Finais
+
+**Principais insights e recomendações**
+
+Clientes com **60+ anos concentram 46% do faturamento (R$ 629,1 mil)**, indicando maior propensão a compras de maior valor.
+Recomendação: priorizar campanhas premium com comunicação personalizada para esse público.
+
+As categorias **Vinhos (R$ 680 mil)** e **Carnes (R$ 373 mil)** representam mais de **70% das vendas**, sendo os principais motores de receita.
+**Recomendação:** estruturar ofertas combinadas (combo vinho + carne) para aumento do ticket médio.
+
+Clientes **casados (R$ 510,45 mil)** e viúvos **(R$ 141,6 mil)** apresentam maior participação no faturamento.
+**Recomendação:** campanhas com apelo emocional e experiências compartilhadas (kits familiares e produtos premium).
+
