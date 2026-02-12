@@ -113,6 +113,7 @@ Critério 2: Insights Acionáveis
 ## Passo 7: Priorização das Hipóteses Analíticas
 
 **Hipótese1**: O faturamento gerado por clientes com menos de 30 anos é superior ao das demais faixas etárias.
+![Hipótese_1](img/faturamento_faixa_30.png)
 
 **Hipótese2:** Os clientes sem filhos gastam menos que os clientes casados
 
