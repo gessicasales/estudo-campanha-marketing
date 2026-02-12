@@ -113,19 +113,42 @@ Critério 2: Insights Acionáveis
 ## Passo 7: Priorização das Hipóteses Analíticas
 
 **Hipótese1**: O faturamento gerado por clientes com menos de 30 anos é superior ao das demais faixas etárias.
-![Hipótese_1](img/faturamento_faixa_30.png)
+
+![Hipótese_1](Imagens_portfolio_campanha_marketing/faturamento_faixa_30.png)
 
 **Hipótese2:** Os clientes sem filhos gastam menos que os clientes casados
 
+![Hipótese_2](Imagens_portfolio_campanha_marketing/faturamento_filhos.png)
+
 **Hipótese3:** Clientes com maior nível de escolaridade são os que mais consomem produtos em comparação aos demais clientes.
+
+![Hipótese_3](Imagens_portfolio_campanha_marketing/consumo_escolaridade.png)
 
 **Hipótese4:** Clientes com mais de 50 anos realizam mais compras em lojas físicas do que clientes com menos de 30 anos.
 
+![Hipótese_4](Imagens_portfolio_campanha_marketing/clientes_50_clientes_30.png)
+
 **Hipótese5:** Clientes casados apresentam maior consumo de vinho em comparação aos clientes solteiros
+
+![Hipótese_5](Imagens_portfolio_campanha_marketing/vinho_estado_civil.png)
 
 **Hipótese6:** Clientes com menos de 40 anos gastam mais com vinhos do que clientes acima de 60 anos
 
+![Hipótese_6](Imagens_portfolio_campanha_marketing/consumo_vinho.png)
+
 # 💡 Insights da Análise
+
+## Visão Geral da Campanha
+
+![Visao_geral](Imagens_portfolio_campanha_marketing/Visao_geral_campanha.png)
+
+## Visão Cliente
+
+![Visao_cliente](Imagens_portfolio_campanha_marketing/Visao_geral_clientes.png)
+
+## Comportamento do Cliente
+
+![Visao_comportamento](Imagens_portfolio_campanha_marketing/Comportamento_cliente.png)
 
 # ✅ Conclusões Finais
 
@@ -139,4 +162,8 @@ As categorias **Vinhos (R$ 680 mil)** e **Carnes (R$ 373 mil)** representam mais
 
 Clientes **casados (R$ 510,45 mil)** e viúvos **(R$ 141,6 mil)** apresentam maior participação no faturamento.
 **Recomendação:** campanhas com apelo emocional e experiências compartilhadas (kits familiares e produtos premium).
+
+# 📊 Visualização Completa do Dasboard
+
+Link da análise completa: https://lookerstudio.google.com/s/lgQ-AMnHhIc
 
